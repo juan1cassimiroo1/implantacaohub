@@ -1,0 +1,31 @@
+# 🧭 Planejamento da Implantação – PortfolioHUB
+
+## 🎯 Objetivo
+Implantar o **PortfolioHUB**, uma plataforma centralizada para exibir e gerenciar portfólios digitais, com integração ao **GitHub** e uso do **Google Gemini** como ferramenta de apoio técnico durante o processo.
+
+---
+
+## 🗂️ Estrutura do Projeto
+- Repositório principal: [ImplantacaoHUB](https://github.com/juan1cassimiroo1/implantacaohub)
+- Diretório local: `~/Documentos/projetos/implantacaohub`
+- Controle de versão: Git + GitHub
+- Ferramenta de suporte: Google Gemini
+
+---
+
+## ⚙️ Etapas do Projeto
+
+### 🧩 1️⃣ Planejamento da Implantação
+- Definição do escopo e objetivos do projeto;
+- Criação do repositório no GitHub;
+- Configuração do ambiente local no Git Bash;
+- Definição de diretórios e estrutura inicial;
+- Configuração do Google Gemini como apoio nas tomadas de decisão;
+- Planejamento das práticas de segurança e controle de acesso.
+
+---
+
+### 🔗 2️⃣ Configuração Inicial e Integração com Git/GitHub
+- Clonado o repositório com o comando:
+  ```bash
+  git clone https://github.com/juan1cassimiroo1/implantacaohub.git
