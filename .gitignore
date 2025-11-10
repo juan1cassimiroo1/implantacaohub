@@ -1,0 +1,26 @@
+# === CONFIGURAÇÕES GERAIS ===
+.env
+*.log
+*.tmp
+*.bak
+*.swp
+
+# === SISTEMA OPERACIONAL ===
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+desktop.ini
+
+# === NODE / PYTHON / ETC (caso use futuramente) ===
+node_modules/
+__pycache__/
+venv/
+.vscode/
+.idea/
+
+# === BACKUPS E CONFIGS LOCAIS ===
+*.zip
+*.rar
+*.tar
+*.gz
