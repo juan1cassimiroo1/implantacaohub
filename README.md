@@ -60,6 +60,15 @@ As seguintes medidas foram aplicadas ao repositório **ImplantacaoHUB**:
 
 --
 
+### 🔒 Configuração de Segurança Atualizada
+
+- Adicionado arquivo `.gitignore` para proteger credenciais e arquivos locais;
+- Ativada autenticação em duas etapas (2FA) na conta GitHub;
+- Definida política de revisão periódica de permissões;
+- Atualizadas dependências e configurado controle de versões seguro.
+
+--
+
 ## 👥 Responsável
 - **Nome:** Juan Conceição Cassimiro  
 - **Curso:** Ciência da Computação
